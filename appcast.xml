@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Boardroom 0.2.1</title>
+      <pubDate>Sun, 08 Nov 2026 23:50:09 -0600</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes Boardroom quitting as soon as it opens on a Mac.]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.2.1/Boardroom-0.2.1.zip"
+                 sparkle:edSignature="N8huDGzhZxLGKMCuONDlHDK8wN7p8UABSUBTCgo9lVBaZmc31JnA6tsF/HWqLhSgwIRzQbElctI0OqAJUxJbDQ==" length="43279154" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Boardroom 0.2.0</title>
       <pubDate>Sun, 08 Nov 2026 20:00:00 -0600</pubDate>
       <sparkle:version>1</sparkle:version>
