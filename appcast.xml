@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Boardroom</title>
+    <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
+    <language>en</language>
+    <item>
+      <title>Boardroom 0.2.0</title>
+      <pubDate>Sun, 08 Nov 2026 20:00:00 -0600</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[First Boardroom Mac build with automatic updates.]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.2.0/Boardroom-0.2.0.zip"
+                 sparkle:edSignature="7QG63tzAbqG3oPz2R+9elSVASovLssTuNI/4OGQSwwIqiuHSScvbweNFVe2k8+A6nY/lUsA3wsfHSNyxQpshDw=="
+                 length="43278133" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
