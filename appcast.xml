@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Boardroom 0.2.4</title>
+      <pubDate>Fri, 13 Nov 2026 10:19:45 -0600</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Devices now shows each device once, only your own, with this device first. Sign out reaches the server. Done buttons are neutral. Also: live Mac windows, the keyboard bottom fix and Live Activity fixes.]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.2.4/Boardroom-0.2.4.zip"
+                 sparkle:edSignature="q9Njg2s4ijeCfUxMFiMUILoWpHoHQcUCBn8DZO1cXrxftnznBnMtg26J5I3PcckgreKfQDPhX9w/c+91EsAxDQ==" length="45447355" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Boardroom 0.2.3</title>
       <pubDate>Mon, 09 Nov 2026 15:14:39 -0600</pubDate>
       <sparkle:version>4</sparkle:version>
