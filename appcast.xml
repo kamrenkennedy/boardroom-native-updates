@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Boardroom 0.3.2</title>
+      <pubDate>Sun, 15 Nov 2026 09:56:49 -0600</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Boardroom 0.3.2]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.3.2/Boardroom-0.3.2.zip"
+                 sparkle:edSignature="SrhxL5wSW9EeRVjkDqiMC2Fpy9WBU68GbgAMe3nr8QAiyd74XdcLnxJC0FRLJJJwQ+KKuk/S4Z+tEWNLMevtCQ==" length="52501760" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Boardroom 0.3.1</title>
       <pubDate>Sun, 15 Nov 2026 00:59:55 -0600</pubDate>
       <sparkle:version>10</sparkle:version>
