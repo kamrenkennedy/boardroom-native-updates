@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Boardroom 0.3.0</title>
+      <pubDate>Sat, 14 Nov 2026 19:32:40 -0600</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Your agents can now run from Boardroom. Turn on Run my agents in Settings, Computers running agents, and this Mac answers your agents' messages. Boardroom checks that Claude Code is ready and gives you one button for anything missing. Set each agent's folder, model and color in Settings. Pick the model and effort under the message box, and watch replies appear as they are written. Also: an outdated Mac updates itself at launch.]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.3.0/Boardroom-0.3.0.zip"
+                 sparkle:edSignature="/aO/5XOT5l+A05yIyT7xW9PSHR7Yv9i0U8WjKJu10Oy7iXOshtLWjUOJCLxbd575MkP3QcWe4K1i59YXMpCEBA==" length="52507199" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Boardroom 0.2.5</title>
       <pubDate>Fri, 13 Nov 2026 18:15:06 -0600</pubDate>
       <sparkle:version>6</sparkle:version>
