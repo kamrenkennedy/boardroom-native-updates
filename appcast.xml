@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Boardroom 0.4.0</title>
+      <pubDate>Tue, 17 Nov 2026 15:36:27 -0600</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[For you puts everything that needs you in one list, with Later and Not this. Today on the Brief shows what you picked for the day, with your Reminders in it. Notes to each other show who is waiting on what. Also: a Mac that needs something gets a card on Home, and agents keep running after an update.]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.4.0/Boardroom-0.4.0.zip"
+                 sparkle:edSignature="suxASo8RV+e44yntUcoIF2DaqUcPh6X8rCCswWX45MJRZZgvY1V34CVgaALbrVSf4yok6/pfitjNAVsq+so7BA==" length="56367307" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Boardroom 0.3.2</title>
       <pubDate>Sun, 15 Nov 2026 09:56:49 -0600</pubDate>
       <sparkle:version>11</sparkle:version>
