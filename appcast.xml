@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/kamrenkennedy/boardroom-native-updates/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Boardroom 0.4.2</title>
+      <pubDate>Thu, 19 Nov 2026 11:23:36 -0600</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Shared agents like House Manager now find their instructions and answer properly. You can share one of your agents with someone from its Shared with list. An open app picks up a new agent without a restart. Groundwork for agent faces in notifications.]]></description>
+      <enclosure url="https://github.com/kamrenkennedy/boardroom-native-updates/releases/download/v0.4.2/Boardroom-0.4.2.zip"
+                 sparkle:edSignature="8qFV07kGY5PjivzpB421gNSaHeBCWpAyrejdIsglG6wivuBIyqmPAp1/8RYaNT3ATtDwQRCY5e74kEr077VZDA==" length="83309703" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Boardroom 0.4.1</title>
       <pubDate>Tue, 17 Nov 2026 19:27:50 -0600</pubDate>
       <sparkle:version>13</sparkle:version>
